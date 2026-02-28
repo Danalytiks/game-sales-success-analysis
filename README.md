@@ -11,6 +11,8 @@ This project analyzes historical video game sales, user and critic reviews, genr
 
 ## 🎯 Business Objective
 
+Identify patterns associated with commercially successful video games to support marketing campaign planning for 2017.
+
 - Identify trends that correlate with successful game sales  
 - Understand platform life cycles and shifting popularity over time  
 - Build regional user profiles to support localized campaign decisions  
@@ -50,9 +52,11 @@ For NA, EU, and JP:
 - ESRB rating impact on sales by region  
 
 ### 4️⃣ Hypothesis Testing
-- Comparison of average user ratings (Xbox One vs PC)  
-- Comparison of average user ratings (Action vs Sports)  
-- Statistical testing with a defined significance level (alpha) and interpretation of p-values  
+- Null hypothesis (H0) 
+- Alternative hypothesis (H1))  
+- Alpha level
+- Test result
+- Interpretation
 
 ---
 
@@ -75,8 +79,8 @@ For NA, EU, and JP:
 
 ---
 
-## 🚀 How to Run
+## Strategic Conclusion
 
-1. Clone the repository  
-2. Install dependencies  
-3. Open the notebook and run cells sequentially  
+Recent platform trends suggest focusing marketing investments on growing platforms with stable global sales performance. Regional differences indicate that campaign strategies should be localized, particularly considering genre preferences and ESRB sensitivity in Japan versus North America and Europe.
+
+Statistical testing supports evidence-based decision-making rather than assumption-driven strategy.
